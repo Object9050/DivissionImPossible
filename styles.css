@@ -1,6 +1,7 @@
 main {
+    /* display: grid;  keine Zeit mehr gehabt für das Design */
     width: 40rem;
-    height: 27rem;
+    height: 43rem;
     border: 3px solid black;
     margin: auto;
     text-align: center;
@@ -12,4 +13,14 @@ button {
 
 #ok-btn {
     margin: 1rem;
+}
+
+#teilbar {
+    color: green;
+    font-size: 1.3rem;
+}
+
+#nichtTeilbar {
+    color: red;
+    font-size: 1.3rem;
 }
